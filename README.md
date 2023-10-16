@@ -4,7 +4,7 @@
 ## preview
 
 
-![Alt Text](URL)
+![screenshot](Screenshot_20231017_011748_Termux.png)
 
 
 ###### requirement
