@@ -1,6 +1,12 @@
 # Jinxx66ObbTool
 ### Multiple files search tool for termux
 
+## preview
+
+
+![Alt Text](URL)
+
+
 ###### requirement
 ```ruby
 pkg install python
