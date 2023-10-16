@@ -25,7 +25,7 @@ cd && cd Jinxx66ObbTool && python search.py
 ###### exit
 > CTRL+Z
 
-###### uninstall tool
+###### uninstall tool (remove tool)
 ```ruby
 cd && rm -rf Jinxx66ObbTool
 ```
