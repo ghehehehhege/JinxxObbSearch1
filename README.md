@@ -4,7 +4,7 @@
 ## preview
 
 
-![screenshot](/New Project [07F2F76].png)
+![screenshot](/screenshot.png)
 
 
 ###### ❗requirement 
