@@ -7,7 +7,7 @@
 ![screenshot](/Screenshot_20231017_011748_Termux.png)
 
 
-###### ❗requirement
+###### ❗requirement 
 ```ruby
 pkg install python
 ```
@@ -15,20 +15,17 @@ pkg install python
 git clone https://github.com/jinix6/Jinxx66ObbTool
 ```
 
-###### 🏃start tool
+###### ❗install requirements.txt
 ```ruby
 cd Jinxx66ObbTool
 ```
 ```ruby
 pip install -r requirements.txt
 ```
-```ruby
-python search.py
-```
 
-### ⏪ one line command (start tool)
+### 🏃start tool
 ```ruby
-cd && cd Jinxx66ObbTool && pip install -r requirements.txt && python search.py
+cd && cd Jinxx66ObbTool && python search.py
 ```
 
 ###### 🛑 Force Stop
