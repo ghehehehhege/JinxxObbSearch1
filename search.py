@@ -6,7 +6,7 @@ GREEN = '\033[92m'
 RED = '\033[91m'
 RESET = '\033[0m'
 text = "\r\n░░█ █ █▄░█ ▀▄▀ ▀▄▀ █▄▄ █▄▄"
-text1 = "Multiple File Search"
+text1 = "Multiple File Search 1.3"
 print(GREEN + text + RESET)
 print(RED + text1 + RESET)
 
