@@ -6,11 +6,12 @@ GREEN = '\033[92m'
 RED = '\033[91m'
 RESET = '\033[0m'
 text = "\r\n░░█ █ █▄░█ ▀▄▀ ▀▄▀ █▄▄ █▄▄"
-text1 = "Multiple File Search 1.3"
+text1 = "Multiple File Search"
 print(GREEN + text + RESET)
 print(RED + text1 + RESET)
-
 print("Press Ctrl+C to exit.")
+
+search_text = input("Search: ")
 
 while True:
     search_directory = input("Input Path: ")
