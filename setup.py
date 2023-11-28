@@ -8,6 +8,10 @@ setup(
     packages=find_packages(),
     install_requires=[
         'tqdm==4.62.2',
-        # add other dependencies here
     ],
+    entry_points={
+        'console_scripts': [
+            'search = JinxxObbSearch.search:main',  # Adjust the entry point
+        ],
+    },
 )
