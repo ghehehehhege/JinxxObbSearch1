@@ -7,6 +7,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        # your dependencies here
+        'tqdm==4.62.2',
+        # add other dependencies here
     ],
 )
