@@ -18,11 +18,21 @@ pip install --upgrade JinxxObbSearch
 ```python
 JinxxObbSearch
 ```
+---
 ## ⛔ Uninstall Tool
 ```python
 pip uninstall JinxxObbSearch
 ```
+---
 
-⋅⋅* Telegram: https://t.me/Jinxx6_6_real_1
 
-⋅⋅* Instagram: https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+
+
++ Telegram: https://t.me/Jinxx6_6_real_1
++ Instagram: https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D
