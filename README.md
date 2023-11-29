@@ -1,7 +1,7 @@
 # 💻 JinxxObbSearch 0.1.7
 ### Introducing a powerful **multiple files search tool** for Termux! This versatile tool allows you to efficiently search through numerous files, saving you time and effort. With its user-friendly interface and robust functionality, navigating and finding specific content within your Termux environment has never been easier
 
-Progress Bar https://github.com/tqdm/tqdm
+
 
 ## preview
 ![screenshot](/screenshot.png)
@@ -26,13 +26,11 @@ pip uninstall JinxxObbSearch
 ---
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://t.me/Jinxx6_6_real_1" target="_blank"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" 
+alt="Telegram" width="100" height="100" border="10" /></a>
 
+<a href="https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-instagram-logo-icon-png-transparent-image-11.png" 
+alt="Instagram" width="100" height="100" border="10" /></a>
 
-
-
-
-+ Telegram: https://t.me/Jinxx6_6_real_1
-+ Instagram: https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D
++ Progress Bar https://github.com/tqdm/tqdm
++ Social Media Icon https://www.freepnglogos.com/
