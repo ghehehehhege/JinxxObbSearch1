@@ -1,39 +1,28 @@
-# JinxxObbSearch 0.1.7
+# 💻 JinxxObbSearch 0.1.7
 ### Introducing a powerful **multiple files search tool** for Termux! This versatile tool allows you to efficiently search through numerous files, saving you time and effort. With its user-friendly interface and robust functionality, navigating and finding specific content within your Termux environment has never been easier
 
-
+Progress Bar https://github.com/tqdm/tqdm
 
 ## preview
-
-
 ![screenshot](/screenshot.png)
 
-
-###### ❗requirement 
-```ruby
-pkg install python
+## 📥 Install Tool
+```python
+pip install JinxxObbSearch
 ```
-```ruby
-git clone https://github.com/jinix6/Jinxx66ObbTool
+For Update
+```python
+pip install --upgrade JinxxObbSearch
 ```
-
-###### ❗install requirements.txt
-```ruby
-cd Jinxx66ObbTool
+## 🚀 Run Tool
+```python
+JinxxObbSearch
 ```
-```ruby
-pip install -r requirements.txt
-```
-
-### 🏃start tool
-```ruby
-cd && cd Jinxx66ObbTool && python search.py
+## ⛔ Uninstall Tool
+```python
+pip uninstall JinxxObbSearch
 ```
 
-###### 🛑 Force Stop
-> CTRL+Z
+⋅⋅* Telegram: https://t.me/Jinxx6_6_real_1
 
-###### 🚮 uninstall tool (remove tool)
-```ruby
-cd && rm -rf Jinxx66ObbTool
-```
+⋅⋅* Instagram: https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D
