@@ -5,7 +5,7 @@ setup(
     version='0.1.7',
     packages=find_packages(),
     install_requires=[
-        'tqdm==4.62.2',
+        'tqdm==4.66.1',
     ],
     entry_points={
         'console_scripts': [
