@@ -2,7 +2,7 @@
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
-    <img width="150" height="150" src="https://raw.githubusercontent.com/jinix6/JinxxObbSearch1/main/New%20Project%2026%20%5B3746A45%5D.png?token=GHSAT0AAAAAACKQKA3M2EOHCGI3GJEYU2ACZLKF4FQ" />
+    <img width="150" height="150" src="New Project 26 [3746A45].png" />
 </p>
 
 
@@ -22,6 +22,9 @@
 </p>
 
 
+<p align="center">
+<a href="https://www.python.org/" target="blank"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Python"  /></a>
+</p>
 
 
 
