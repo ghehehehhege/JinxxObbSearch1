@@ -2,16 +2,23 @@
 
 <p align="center">
     <!--     You can add your logo in the _src_ below -->
-    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
+    <img width="150" height="150" src="https://raw.githubusercontent.com/jinix6/JinxxObbSearch1/main/New%20Project%2026%20%5B3746A45%5D.png?token=GHSAT0AAAAAACKQKA3M2EOHCGI3GJEYU2ACZLKF4FQ" />
 </p>
+
+
+
+
 
 
 <p align="left">
 <!--     Add your own socials inside "href" -->
-<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
+<a href="https://t.me/Jinxx6_6_real_1" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Jinxx6_6_real_1" /></a>
 </p>
+
+
+
 <p align="left">
-<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+<a href="https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jinxx6_6"  /></a>
 </p>
 
 
