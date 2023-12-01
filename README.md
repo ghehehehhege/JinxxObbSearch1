@@ -6,6 +6,19 @@
 </p>
 
 
+<p align="left">
+<!--     Add your own socials inside "href" -->
+<a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/baptiste-fernandez-%E5%B0%8F%E7%99%BD-0a958630/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+</p>
+
+
+
+
+
+
 ### Introducing a powerful **multiple files search tool** for Termux! This versatile tool allows you to efficiently search through numerous files, saving you time and effort. With its user-friendly interface and robust functionality, navigating and finding specific content within your Termux environment has never been easier
 
 
