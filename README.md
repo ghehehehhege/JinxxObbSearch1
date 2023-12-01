@@ -10,14 +10,14 @@
 
 
 
-<p align="left">
+<p align="center">
 <!--     Add your own socials inside "href" -->
 <a href="https://t.me/Jinxx6_6_real_1" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Jinxx6_6_real_1" /></a>
 </p>
 
 
 
-<p align="left">
+<p align="center">
 <a href="https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jinxx6_6"  /></a>
 </p>
 
