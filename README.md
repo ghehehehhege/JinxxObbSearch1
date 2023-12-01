@@ -1,4 +1,11 @@
 # 💻 JinxxObbSearch 0.1.7
+
+<p align="center">
+    <!--     You can add your logo in the _src_ below -->
+    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
+</p>
+
+
 ### Introducing a powerful **multiple files search tool** for Termux! This versatile tool allows you to efficiently search through numerous files, saving you time and effort. With its user-friendly interface and robust functionality, navigating and finding specific content within your Termux environment has never been easier
 
 
