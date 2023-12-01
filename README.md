@@ -51,13 +51,3 @@ JinxxObbSearch
 pip uninstall JinxxObbSearch
 ```
 ---
-
-
-<a href="https://t.me/Jinxx6_6_real_1" target="_blank"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" 
-alt="Telegram" width="100" height="100" border="10" /></a>
-
-<a href="https://www.instagram.com/jinxx6_6/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-download-instagram-logo-icon-png-transparent-image-11.png" 
-alt="Instagram" width="100" height="100" border="10" /></a>
-
-+ Progress Bar https://github.com/tqdm/tqdm
-+ Social Media Icon https://www.freepnglogos.com/
